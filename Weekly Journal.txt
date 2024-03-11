@@ -1,0 +1,16 @@
+
+Week 1: Project Conceptualization, Dataset Collection
+
+During the first week, I embarked on conceptualizing a small program for automatic photo classification and initiated the manual collection of a dataset. Initially, I clarified the project's goal: to write a Python program capable of automatically categorizing images in a folder into respective folders. To build an effective model, I decided to copy images from Google Photos as a dataset to ensure diversity and richness of data.
+
+Week 2: Data Processing, Model Training, Implementation of Model Evaluation
+
+In the second week, my focus shifted to data processing and model training. For data processing, I wrote scripts to clean and preprocess the collected data. Subsequently, I used the popular deep learning library Keras in Python for model training. I chose a deep learning model architecture suitable for image classification tasks and fine-tuned it to enhance performance. After completing model training, I implemented model evaluation functionality to ensure its generalization capabilities on different datasets.
+
+Week 3: Implementation of Image Classification Mobile App
+
+The primary task of the third week was to write the core part of the program, implementing the functionality for image classification and movement. This involved loading the model to predict the category of images and moving them to the respective folders. In addition to basic classification features, I also incorporated some additional functionalities, such as recording the results of classification.
+
+Week 4: Bug Fixing, Model Optimization
+
+In the fourth week, I dedicated time to comprehensive testing of the program, identifying and fixing potential bugs. Additionally, I performed model optimization by adjusting hyperparameters and increasing training data to improve model performance. I paid attention to the training speed and accuracy of the model, ensuring it can quickly and accurately classify images in real-world usage.
